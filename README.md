@@ -1,2 +1,2 @@
 # Fortinet
-An easy guide for fortinet
+this will be a repositery made to do a quick and easy setup of fortinet...
